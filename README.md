@@ -2,6 +2,8 @@
 
 - **Data PreProcessing**: *DataProc*
 - **Basic PyTorch**: *PyTorchBasic*
+- **Model Evaluation**: *Others*
+
 
 ### Reference
 
