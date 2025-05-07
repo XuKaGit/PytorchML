@@ -7,5 +7,6 @@
 
 ### Reference
 
-- [DDA3020 Machine Learning in CUHKSZ](./DDA3020)
+- [DDA3020 Machine Learning in CUHKSZ](./LectureNotes)
+- [DDA4210 Advanced Machine Learning in CUHKSZ](./LectureNotes)
 - [Machine Learning for Engineers](https://ml-course.github.io/master/intro.html)
